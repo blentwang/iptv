@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/2024-12-2917:35:56.png" group-title="🕘️更新时间",2024-12-29 17:35:56
-http://117.190.144.101:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://117.190.144.101:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
